@@ -1,0 +1,13 @@
+#EXTM3U 
+
+#EXTINF:-1, Telemundo 
+https://h1.ustvgo.org/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDIxIDQ6NTg6MzMgQU0maGFzaF92YWx1ZT03ck5jRGxyWkdMSGZtVUhOWUI2YVp3PT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1, Telemundo 2
+https://h1.ustvgo.org/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDIxIDU6MDA6NDggQU0maGFzaF92YWx1ZT1vaDV5NTZqOVVNdUN1aDF4amEvTVNBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1, Telemicro
+https://playback.akamaized.net/streams/28126860_8825282_lsis5sja2ua29j0tsr1_1/media/28126860_8825282_lsis5sja2ua29j0tsr1_1@3628000pb.m3u8?dw=80&ts=1618808400&hdnts=exp=1618982178~acl=/streams/28126860_8825282_lsis5sja2ua29j0tsr1_1/media*~hmac=5f3afe8cc69bb89e29824299f005701cd3668a121f9343790481df7c4aaf2ea5
+
+#EXTINF:-1, cristiano 
+https://ott.streann.com/loadbalancer/services/web-players/channels-reseller-secure/5e0689c82cdcb4fdbcd79151/dcdb5fb7-7279-482d-a38b-0240e9c3a1e0/rv6oe6k41knvsh0gp2vk62mr2/5e00e27f2cdcb4fdbcd783c8/playlist.m3u8?date=1618809467933&device-type=web&device-name=web&device-os=web&device-id=XuLzOXj2wCmspglc2uJnMCfXbkkIWGTJMY6QSzqXeDYtSzLk9l&dvrTime=3600
